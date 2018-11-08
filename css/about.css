@@ -1,0 +1,17 @@
+.font{
+    font-size: 14px;
+}
+
+body{
+    background: #f7f7f7;
+}
+
+@media screen and (max-width:771px){
+    #test{
+        width:100%;
+    }
+
+    span{
+        display: none;
+    }
+}
